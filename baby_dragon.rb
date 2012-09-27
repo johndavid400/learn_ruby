@@ -1,4 +1,4 @@
-# This is a crazy example that I got out of a book (forgot which one)
+# This is a crazy example that I got out of Learning to Program
 # you can check it out
 
 class Dragon
